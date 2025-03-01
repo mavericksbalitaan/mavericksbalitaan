@@ -6,7 +6,7 @@ Hi there! 👋 I'm Mavericks <img src="https://emojis.slackmojis.com/emojis/imag
 
 👨‍💻 Full Stack Web Developer (MERN) from Philippines 🇵🇭
 
-🌐 Check out my [portfolio](https://mavericks-db.com/).
+🌐 Check out my [portfolio](https://mavericksbalitaan.com/).
 
 💬 Chat me on Discord: [mavericks-db#4521](https://discord.com/).
 
