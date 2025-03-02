@@ -42,19 +42,19 @@ Hi there! 👋 I'm Mavericks <img src="https://emojis.slackmojis.com/emojis/imag
 
 <h2 align ="left">⚡ Stats :
 <div >
-  <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mavericks-db&show_icons=true&theme=default"/>
-  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mavericks-db&show_icons=true&theme=default&layout=compact"/>
+  <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mavericksbalitaan&show_icons=true&theme=default"/>
+  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mavericksbalitaan&show_icons=true&theme=default&layout=compact"/>
 </div>
 
 <!-- <h2>Weekly Coding Stats</h2>
 
-<img height="180" width="420" src="https://github-readme-stats.vercel.app/api/wakatime?username=mavericks_db"/> -->
+<img height="180" width="420" src="https://github-readme-stats.vercel.app/api/wakatime?username=mavericksbalitaan"/> -->
 
 <div align="center">
 
 [![wakatime](https://wakatime.com/badge/user/c2d0d9f8-89e4-48a4-8894-5b95c521ce07.svg)](https://wakatime.com/@c2d0d9f8-89e4-48a4-8894-5b95c521ce07)
 
-![](https://komarev.com/ghpvc/?username=mavericks-db)
+![](https://komarev.com/ghpvc/?username=mavericksbalitaan)
 
 </div>
 
