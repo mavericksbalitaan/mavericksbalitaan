@@ -8,7 +8,7 @@ Hi there! 👋 I'm Mavericks <img src="https://emojis.slackmojis.com/emojis/imag
 
 🌐 Check out my [portfolio](https://mavericksbalitaan.com/).
 
-💬 Chat me on Discord: [mavericks-db#4521](https://discord.com/).
+💬 Chat me on Discord: [mavericksbalitaan](https://discord.com/).
 
 <h2 align="left"> 📬 Contact me at : </h2>
 
