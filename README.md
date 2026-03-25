@@ -1,14 +1,14 @@
 <h1 align="left">
-Hi! I'm Mavericks <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+Hi, I am Mavericks <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 </h1>
 
 <img height="auto" src="https://user-images.githubusercontent.com/98527559/175492401-7d16c8fd-da98-4dc4-b8f6-b4993744a063.gif" width="400px" />
 
-👨‍💻 Full Stack Web Developer (MERN) from Philippines 🇵🇭
+👨‍💻 Full Stack Web Developer from Philippines 🇵🇭
 
 🌐 Check out my [portfolio](https://portfolio.mavericksbalitaan.com/).
 
-💬 Chat me on Discord: [mavericksbalitaan](https://discord.com/).
+💬 Chat me on Discord: [mavericksbalitaan](https://discordapp.com/users/936198433902043176).
 
 <h2 align="left"> 📬 Contact me at : </h2>
 
