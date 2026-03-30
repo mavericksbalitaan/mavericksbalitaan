@@ -6,7 +6,7 @@ Hi, I am Mavericks <img src="https://emojis.slackmojis.com/emojis/images/1531849
 
 👨‍💻 Full Stack Web Developer from Philippines 🇵🇭
 
-🌐 Check out my [portfolio](https://portfolio.mavericksbalitaan.com/).
+🌐 Check out my [portfolio](https://mavericksb.com/).
 
 💬 Chat me on Discord: [mavericksbalitaan](https://discordapp.com/users/936198433902043176).
 
