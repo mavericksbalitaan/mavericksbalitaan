@@ -1,8 +1,8 @@
-<h1 align="left">
-Hi, I am Mavericks <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-</h1>
+<h2 align="left">
+Hi, I'm Mavericks :sparkles:
+</h2>
 
-<img height="auto" src="https://user-images.githubusercontent.com/98527559/175492401-7d16c8fd-da98-4dc4-b8f6-b4993744a063.gif" width="400px" />
+<img height="auto" src="https://user-images.githubusercontent.com/98527559/175492401-7d16c8fd-da98-4dc4-b8f6-b4993744a063.gif" width="350px" />
 
 👨‍💻 Full-Stack Web Developer from Philippines 🇵🇭
 
@@ -41,14 +41,9 @@ Hi, I am Mavericks <img src="https://emojis.slackmojis.com/emojis/images/1531849
 </div>
 
 <h2 align ="left">⚡ Stats :
-<div >
+<div align="center">
   <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mavericksbalitaan&show_icons=true&theme=default"/>
-  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mavericksbalitaan&show_icons=true&theme=default&layout=compact"/>
 </div>
-
-<!-- <h2>Weekly Coding Stats</h2>
-
-<img height="180" width="420" src="https://github-readme-stats.vercel.app/api/wakatime?username=mavericksbalitaan"/> -->
 
 <div align="center">
 
